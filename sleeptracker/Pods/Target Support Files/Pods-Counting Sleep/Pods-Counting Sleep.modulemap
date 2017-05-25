@@ -1,0 +1,6 @@
+framework module Pods_Counting_Sleep {
+  umbrella header "Pods-Counting Sleep-umbrella.h"
+
+  export *
+  module * { export * }
+}
